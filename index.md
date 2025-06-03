@@ -94,7 +94,7 @@ function toggleContent(button) {
                 <button class="expand-btn" onclick="toggleContent(this)">More</button>
             </div>  
         </li>
-        <li class="table-row">
+        <!-- <li class="table-row">
             <div class="col-12 col-md-12">
                 <div class="image--cover-container">
                     <img src="/_images/Anshumali-Shrivastava.jpg" class="image--cover">
@@ -109,7 +109,7 @@ function toggleContent(button) {
                 </div>
                 <button class="expand-btn" onclick="toggleContent(this)">More</button>
             </div>  
-        </li>
+        </li> -->
         <!-- <li class="table-row">
             <div class="col-12 col-md-12">
                 <div class="image--cover-container">
