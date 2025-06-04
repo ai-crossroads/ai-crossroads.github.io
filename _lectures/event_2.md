@@ -1,7 +1,7 @@
 ---
 type: lecture
 start_time: "09:10"
-end_time: "09:45"
+end_time: "09:50"
 title: "Invited Talk 1"
 presenter: Dr. Shaolei Ren
 description: "AI, Energy, and Public Health"
