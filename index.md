@@ -43,6 +43,8 @@ function toggleContent(button) {
 
 ![topic_banner](/_images/banner.jpg)
 
+## Location: Lecture Hall 2
+
 **Keynote Speakers**
 <div class="home" style="font-size: 1em;">
     <ul class="responsive-table" style="margin-left: 0; border-bottom: 0.1em solid whitesmoke;">
